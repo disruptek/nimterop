@@ -40,7 +40,7 @@ var
     # char
     "char": "cchar",
     "signed char": "cschar",
-    "unsigned char": "cuchar",
+    "unsigned char": "char",
 
     # short
     "short": "cshort",
